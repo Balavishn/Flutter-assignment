@@ -1,0 +1,6 @@
+package com.babu.flutterapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
